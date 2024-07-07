@@ -6,7 +6,7 @@
 import { defineComponent } from "vue";
 import SideBar from "@/components/SideBar.vue"; // @ is an alias to /src
 export default defineComponent({
-  name: "HomeView",
+  name: "Company",
   components: {
     SideBar,
   },
